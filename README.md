@@ -1,4 +1,4 @@
-# VehicleMenu
+# hrm_vehiclemenu
 
 ### Include:
 - Radial Menu (https://forum.cfx.re/t/release-radialmenu-configurable-menu-for-chat-commands-using-wheelnav-js/543690)
